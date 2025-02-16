@@ -5,6 +5,9 @@ The **Bot Maze Trap** is a sophisticated honeypot designed to **trap and slow do
 
 This tool is particularly useful for **wasting the resources of malicious scrapers, spammers, and bots** that attempt to navigate a site in an automated fashion.
 
+Friendly words file is borrowed from: https://github.com/glitchdotcom/friendly-words/tree/main
+
+
 ## Features
 - **Infinite Maze Navigation:** Bots are redirected into an ever-expanding network of fake pages.
 - **Progressive TCP Window Size Reduction:** Over multiple requests, bots experience progressively slower response times.
