@@ -26,7 +26,7 @@ Friendly words file is borrowed from: https://github.com/glitchdotcom/friendly-w
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/bot-maze-trap.git
+git clone https://github.com/matthewjharmon/bot-maze-trap.git
 cd bot-maze-trap
 
 # Build the application
